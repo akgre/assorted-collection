@@ -1,0 +1,66 @@
+{
+  "station_data": {
+    "station_id": "dev01",
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "description": "Development of the test framework",
+    "script_dir": "C:\\Users\\Zircon\\Desktop\\python_projects\\TCM"
+  },
+  "setup_data": {
+    "pyVersion": "3.8.5",
+    "hostPC": "DESKTOP-5J0QE0R",
+    "user": "Zircon",
+    "start_script_time": "Thu Jan 28 15:11:59 2021",
+    "setup_file": "compile_results.csv",
+    "title": "Compiling Sensitivity Results",
+    "test_description": "compiling sensitivity results into a single file",
+    "project": "Project",
+    "test_type": "Sensitivity Compiling",
+    "test_module": "comp_sens_results",
+    "log_console_level": "INFO",
+    "log_console_file": "console_log_file.txt",
+    "log_file_level": "DEBUG",
+    "log_file_name": "debug_log_file.txt",
+    "flow_control_level": "DEBUG",
+    "setup_file_path": "C:\\Users\\Zircon\\Desktop\\python_projects\\TCM\\setup_files\\compile_results.csv",
+    "date_time": "21-01-28_15-11-59",
+    "results_dir": "C:\\Users\\Zircon\\Desktop\\python_projects\\TCM\\results\\21-01-28_15-11-59_Compiling Sensitivity Results",
+    "test_logs_dir": "C:\\Users\\Zircon\\Desktop\\python_projects\\TCM\\results\\21-01-28_15-11-59_Compiling Sensitivity Results\\logs"
+  },
+  "test_case_files": {
+    "current_test_case": "a",
+    "test_case_list": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "j",
+      "k",
+      "l"
+    ],
+    "test_case_history": []
+  },
+  "test_definitions": {
+    "current_test_definition": [],
+    "test_definition_list": [],
+    "test_definition_history": []
+  },
+  "test_brief": {
+    "current_test_definition": [],
+    "test_definition_list": [],
+    "test_definition_history": []
+  },
+  "test_messages": {
+    "current_test_mesage": "",
+    "test_command": "",
+    "test_message_history": []
+  },
+  "test_results_brief": {
+    "results_brief_file": "C:\\Users\\Zircon\\Desktop\\python_projects\\TCM\\results\\21-01-28_15-11-59_Compiling Sensitivity Results\\results_brief.csv"
+  }
+}
