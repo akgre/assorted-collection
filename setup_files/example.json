@@ -1,0 +1,10 @@
+{
+    "title": {"InputText": {"default_text": "Dev Project"}},
+    "project": {"InputText": {"default_text":"Dev Project"}},
+    "description": {"InputText": {"default_text": "Random development of the test framework"}},
+    "log_console_level": {"Combo": {"default_value": "INFO", "values": ["INFO", "DEBUG"], "size": [20, 1]}},
+    "log_console_file_name": {"InputText": {"default_text": "console_log_file.txt"}},
+    "log_file_level": {"Combo": {"default_value": "DEBUG", "values": ["INFO", "DEBUG"], "size": [20, 1]}},
+    "log_console_file_name": {"InputText": {"default_text": "debug_log_file.txt"}},
+    "results_path": {"InputText": {"default_text": "C:\\Users\\Zircon\\Desktop\\python_projects\\TCM\\results\\"}}
+}
