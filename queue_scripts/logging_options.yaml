@@ -1,0 +1,9 @@
+console_file_name: '{datetime}_{project_name}_console.log'
+console_level: DEBUG
+enable_console_file: true
+enable_verbose_file: true
+file_rotation: 100 MB
+log_records_dir: '{cwd}\LOGS\{project_name}'
+quiet_console: false
+verbose_file_name: '{datetime}_{project_name}_debug.log'
+verbose_level: DEBUG

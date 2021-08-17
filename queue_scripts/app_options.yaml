@@ -1,0 +1,19 @@
+MS_format_output: true
+backup_ext: .bak
+entrybox_width: 50
+file_dir: C:/Users/Zircon/Desktop/python_projects/queue-scripts/queue_scripts/scripts
+formats: .config .xml .json .py
+geometry: !!python/tuple
+- 720
+- 527
+icon: ../queue_scripts/assets/pc_icon.png
+output_encoding: autodetect
+position: !!python/tuple
+- 213
+- 168
+previous_queue_list: null
+queue_file_name: selected_queue.yaml
+queue_running_flag: false
+save_position: true
+station_config_file: .station_config.yaml
+theme: System Default 1
