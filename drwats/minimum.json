@@ -1,0 +1,28 @@
+{
+  "type": "T",
+  "id": "74dbbb17-392a-44f5-bb3a-d0e0a47cbc51",
+  "pn": "OLC-140-C",
+  "sn": "123",
+  "rev": "8",
+  "processCode": 1100,
+  "result": "P",
+  "machineName": "wats-demo-01",
+  "location": "skyWATS",
+  "purpose": "demo",
+  "start": "2022-12-28T12:07:05.92+02:00",
+  "root": {
+    "id": 0,
+    "group": "M",
+    "stepType": "WATS_SeqCall",
+    "name": "MainSequence Callback",
+    "status": "P",
+    "seqCall": {
+      "path": "seq path",
+      "name": "seq name",
+      "version": "version_number"
+    }
+  },
+  "uut": {
+    "user": "user"
+  }
+}
